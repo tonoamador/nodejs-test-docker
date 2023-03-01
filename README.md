@@ -1,5 +1,8 @@
 # NOTE: THIS IS AN ASSIGNMENT FROM THE COURSE DOCKER MASTERY WITH KUBERNETES + SWARM MADE BY BRET FISHER
 
+## Final Result:
+
+![node-test](http://github.com/tonoamador/nodejs-tes-docker/node-test.png)
 
 # Instructions for Assignment
 
