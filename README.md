@@ -2,7 +2,7 @@
 
 ## Final Result:
 
-![node-test](http://github.com/tonoamador/nodejs-tes-docker/node-test.png)
+![node-test](https://github.com/tonoamador/nodejs-test-docker/blob/main/node-test.png)
 
 # Instructions for Assignment
 
